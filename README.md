@@ -1,3 +1,3 @@
 # Backend-Java
-Ejercicios de programación en Java.\n
-\nPrácticas Launch X.
+Ejercicios de programación en Java.
+Prácticas Launch X.
